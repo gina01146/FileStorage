@@ -1,0 +1,15 @@
+{
+    "firstname": "Gina",
+    "gender": false,
+    "height": 160,
+    "email": "gina01146@gmail.com",
+    "city": {
+        "通訊地址": "桃園",
+        "戶籍地址": "桃園"
+    },
+    "phone": {
+        "市話": "03-1234567",
+        "行動電話": "0912345678"
+    },
+    "cars": [ "BMW", "Nissan", "Audi" ]
+}
